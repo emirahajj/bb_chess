@@ -4,6 +4,8 @@ A simple command line modified version of Chess. Using only pawns, the first pla
 
 ![Screencap of bbchess](https://i.imgur.com/FlWBOY3.png){width=50%}
 
+[<img src="https://i.imgur.com/FlWBOY3.png" width="250"/>](https://i.imgur.com/FlWBOY3.png)
+
 # Installation + Set Up
 
 ### Compile:
