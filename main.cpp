@@ -15,6 +15,8 @@ int main(){
 
     int i, j, newi, newj, v;
 
+    //this is a comment
+
     // cout<<a.canWhiteAdvance(a.getPieceAtPos(7,5))<<endl;
     // cout<<a.canWhiteAdvance(a.getPieceAtPos(6,5))<<endl;
     while (!a.getGameOver())
